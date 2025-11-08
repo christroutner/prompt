@@ -15,3 +15,5 @@ const bchjs = bchWallet.bchjs
 ```
 
 Code examples for common blockchain workflows are available in the `examples/` directory.
+
+minimal-slp-wallet is the preferred library. If an object can be achieved by using that library, it is preferable to using bch-js. bch-js should only be used when the functionality is not available in minimal-slp-wallet.
