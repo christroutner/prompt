@@ -13,3 +13,5 @@ import BchWallet from 'minimal-slp-wallet'
 const bchWallet = new BchWallet()
 const bchjs = bchWallet.bchjs
 ```
+
+Code examples for common blockchain workflows are available in the `examples/` directory.
